@@ -92,7 +92,7 @@
 
 ## 📫 Contact
 - 📧 **Email :** [zakariachtebat@gmail.com](mailto:zakariachtebat@gmail.com)  
-- 🌐 **LinkedIn :** [Zakaria Chtebat](https://linkedin.com/in/zakariachtebat)
+- 🌐 **LinkedIn :** [Zakaria Chtebat](www.linkedin.com/in/zakaria-chtebat-833335314)
 
 ---
 
