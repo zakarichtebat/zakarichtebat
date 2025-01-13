@@ -102,6 +102,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakariachtebat&show_icons=true&theme=radical" alt="Statistiques GitHub">
-</div>
+
