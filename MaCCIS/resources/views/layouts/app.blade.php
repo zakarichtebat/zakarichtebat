@@ -21,7 +21,7 @@
                         <a class="nav-link" href="{{ route('products.index') }}">Produits</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ url('/session') }}">Sessions</a>
+                        <a class="nav-link" href="{{ url('/session') }}">Sessionssss</a>
                     </li>
                 </ul>
             </div>
@@ -30,9 +30,9 @@
 
     <div class="container">
         @if(session('success'))
-            <div class="alert alert-success">
-                {{ session('success') }}
-            </div>
+        <div class="alert alert-success">
+            {{ session('success') }}
+        </div>
         @endif
 
         @yield('content')
