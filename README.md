@@ -1,8 +1,7 @@
 # 👋 Bonjour, je suis Zakaria Chtebat
 
 ## 👨‍💻 À propos de moi
-Étudiant passionné en développement d'applications Web et Mobile à l'École Supérieure de Technologie de Nador. Je suis constamment motivé par l'apprentissage et l'innovation dans le domaine du développement logiciel.
-
+Étudiant en Intelligence Artificielle | Ancien technicien en développement web & mobile
 ---
 
 ## 🛠 Compétences Techniques
