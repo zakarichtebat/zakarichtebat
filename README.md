@@ -1,181 +1,407 @@
-# 👋 Bonjour, je suis Zakaria Chtebat
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Zakaria%20Chtebat&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-## 👨‍💻 À propos de moi
+<h1 align="center">Hi 👋, I'm Zakaria Chtebat</h1>
 
-🎓 Diplômé d'une Licence en Intelligence Artificielle  
-💻 Ancien étudiant en Développement Web & Mobile à l'École Supérieure de Technologie de Nador  
-🚀 Passionné par l'Intelligence Artificielle, le Développement Full Stack, le Cloud et la Cybersécurité.
+<h3 align="center">
+Artificial Intelligence Graduate • Full Stack Web Developer • Passionate about Building Smart Solutions
+</h3>
 
-J'aime concevoir des applications web modernes, développer des solutions basées sur l'IA et apprendre continuellement de nouvelles technologies.
+<p align="center">
+<a href="https://github.com/zakarichtebat">
+<img src="https://komarev.com/ghpvc/?username=zakarichtebat&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
 
----
+<a href="https://github.com/zakarichtebat?tab=followers">
+<img src="https://img.shields.io/github/followers/zakarichtebat?label=Followers&style=social"/>
+</a>
 
-# 🛠️ Compétences Techniques
+<img src="https://img.shields.io/badge/Open%20To-Internship-success"/>
 
-## 💻 Langages
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
-
----
-
-## 🌐 Développement Web
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+<img src="https://img.shields.io/badge/Open%20To-Full%20Stack-blue"/>
+</p>
 
 ---
 
-## 🗄️ Bases de données
+# 👨‍💻 About Me
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
+🎓 Graduate in Artificial Intelligence
+
+🎓 University Diploma in Web & Mobile Development
+
+💻 Full Stack Web Developer
+
+🤖 Passionate about Artificial Intelligence, Machine Learning and Data Science.
+
+🚀 I enjoy building modern web applications, REST APIs and solving real-world problems with software.
+
+🌱 Currently improving my skills in:
+
+- Machine Learning
+- Deep Learning
+- Cloud Computing
+- Cybersecurity
+- DevOps
+- Flutter
 
 ---
 
-## ⚙️ Outils
+# 🛠 Tech Stack
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+## Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=php"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=cs"/>
+
+</p>
 
 ---
 
-# 🎓 Formation
+## Frontend
 
-### 🎓 Licence en Intelligence Artificielle
+<p>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=vue"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=laravel"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=nestjs"/>
+
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+
+</p>
+
+---
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=sqlite"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+</p>
+
+---
+
+# 🎓 Education
+
+### 🎓 Bachelor Degree in Artificial Intelligence
+
 2025 - 2026
 
 ---
 
-### 🎓 Diplôme Universitaire de Technologie
-Développement Web & Mobile
+### 🎓 University Diploma
 
-École Supérieure de Technologie de Nador
+Web & Mobile Development
 
----
-
-# 💼 Expériences
-
-### 💻 Développeur Web & Mobile
-**CCIS Nador**
-
-- Développement d'une plateforme de gestion administrative.
-- Gestion des rendez-vous.
-- Gestion des certificats.
-- Tableau de bord d'administration.
-- Laravel • Vue.js • MySQL • Prisma
+Higher School of Technology of Nador
 
 ---
 
-### 🌍 Développeur Web (Remote)
+# 💼 Professional Experience
 
-Participation au développement d'applications web modernes dans un environnement collaboratif international.
+## Web & Mobile Developer
+
+### CCIS Nador
+
+Worked on an administrative management platform including:
+
+- Appointment Management
+
+- Entrepreneur Management
+
+- Certificates
+
+- Administration Dashboard
+
+- User Authentication
+
+Technologies:
+
+Laravel • Vue.js • MySQL
 
 ---
 
-# 🚀 Projets
+## Remote Web Developer
 
-## 🧠 Système de Gestion de Rendez-vous (CCIS)
+Collaborated remotely on web development projects in an international environment.
+
+---
+
+# 🚀 Projects
+
+## 🧠 Administrative Management Platform
+
+### Stack
 
 - Laravel
+
 - Vue.js
-- MySQL
-- Prisma
 
-Application permettant :
-
-- Gestion des rendez-vous
-- Gestion des entrepreneurs
-- Gestion des certificats
-- Tableau de bord Administrateur
-
----
-
-## 🚗 Plateforme de Location de Voitures
-
-Stack :
-
-- Laravel
-- React
 - MySQL
 
-Fonctionnalités :
+### Features
 
-- Réservation
-- Paiement
-- Gestion des véhicules
-- Tableau de bord
+- Appointment Management
 
----
+- Entrepreneurs
 
-## 📦 Gestion de Stock
+- Certificates
 
-Technologies :
-
-- Java
-- JSF
-- JDBC
-- JPA
-- MVC
+- Admin Dashboard
 
 ---
 
-## 🛒 Plateforme E-commerce
+## 🚗 Car Rental Platform
 
-- Laravel
-- React
-- MySQL
+Stack
 
-Fonctionnalités :
+Laravel
 
-- Authentification
-- Catalogue produits
-- Gestion commandes
-- Tableau de bord
+React
 
----
+MySQL
 
-# 🌱 J'apprends actuellement
+Features
 
-- Machine Learning
-- Deep Learning
-- Data Science
-- Big Data
-- Cloud Computing
-- Python avancé
-- Cybersécurité
+- Authentication
+
+- Vehicle Management
+
+- Booking System
+
+- Payments
+
+- Dashboard
 
 ---
 
-# 🌍 Langues
+## 🛒 E-Commerce Platform
 
-🇲🇦 Arabe : Langue maternelle
+Stack
 
-🇫🇷 Français : Bon niveau
+Laravel
 
-🇬🇧 Anglais : Niveau intermédiaire
+React
+
+MySQL
+
+Features
+
+- Authentication
+
+- Products
+
+- Shopping Cart
+
+- Orders
+
+- Admin Dashboard
 
 ---
 
-# 📫 Contact
+## 📦 Inventory Management
 
-📧 Email :
+Java
+
+JSF
+
+JDBC
+
+MVC
+
+JPA
+
+---
+
+# 📚 Currently Learning
+
+✅ Machine Learning
+
+✅ Deep Learning
+
+✅ TensorFlow
+
+✅ Scikit-Learn
+
+✅ OpenCV
+
+✅ Flutter
+
+✅ PostgreSQL
+
+✅ Redis
+
+✅ Docker
+
+✅ Kubernetes
+
+---
+
+# 🎯 2026 Goals
+
+✔ Become a Full Stack AI Engineer
+
+✔ Build AI-powered Web Applications
+
+✔ Contribute to Open Source
+
+✔ Improve DevOps Skills
+
+✔ Master Cloud Computing
+
+✔ Learn Flutter
+
+✔ Publish Professional Projects
+
+---
+
+# 💡 What I Can Do
+
+✔ REST API Development
+
+✔ Database Design
+
+✔ Laravel Applications
+
+✔ React Applications
+
+✔ Vue Applications
+
+✔ Authentication Systems
+
+✔ CRUD Applications
+
+✔ Git & GitHub Workflow
+
+✔ Docker Basics
+
+✔ SQL Queries
+
+---
+
+# 🌍 Languages
+
+🇲🇦 Arabic
+
+Native
+
+🇫🇷 French
+
+Professional Working Proficiency
+
+🇬🇧 English
+
+Intermediate
+
+---
+
+# 🤝 Soft Skills
+
+✔ Teamwork
+
+✔ Problem Solving
+
+✔ Continuous Learning
+
+✔ Communication
+
+✔ Adaptability
+
+✔ Responsibility
+
+✔ Time Management
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zakarichtebat&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakarichtebat&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakarichtebat&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Contact Me
+
+📧 Email
+
 **zakariachtebat@gmail.com**
 
-💼 LinkedIn
+🌐 LinkedIn
 
 https://www.linkedin.com/in/zakaria-chtebat-833335314
 
@@ -185,18 +411,12 @@ https://github.com/zakarichtebat
 
 ---
 
-# ⚡ Centres d'intérêt
+# ⚡ Fun Fact
 
-🤖 Intelligence Artificielle
+> I believe that every challenge is an opportunity to learn something new.
 
-💻 Développement Full Stack
+---
 
-☁️ Cloud Computing
-
-🔒 Cybersécurité
-
-📊 Data Science
-
-⚽ Football
-
-📚 Développement personnel
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
+</p>
